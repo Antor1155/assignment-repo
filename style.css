@@ -1,0 +1,84 @@
+body{
+    margin: 0%;
+}
+h1{
+    font-size: 55px; 
+    font-family: 'Playfair Display', serif;
+}
+#first-section h1{
+    font-size: 35px; 
+    border-left: 3px solid rgb(131, 10, 10);
+    padding-left: 10px;
+}
+p{
+    margin-bottom: 50px;
+}
+.half{
+    display: flex;
+    margin-bottom: 80px;
+}
+.half-divided-section{
+width: 50%;
+margin:0 14%;
+}
+.half-divided-section img{
+width: 110%;
+padding: 30px 10%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red, orangered);
+    padding: 7px 15px;
+    margin:150px 0 0 0;
+    border-radius: 10px;
+}
+.orange-color{
+    color: orange;
+}
+.multiple-portion-part{
+    display: flex;
+    margin: 0 50px 80px 50px;
+}
+.third-width{
+    width:30%;
+    margin: 0% 15px;
+    border-radius: 20px;
+    padding: 10px 10px 0 10px;
+}
+#third-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-position: center;
+}
+#fourth-section{
+    background-image: url(images/shapes/shape-6.png);
+    background-position: 10px 10px;
+}
+.third-width img{
+    width: 35%;
+}
+.center-text{
+    text-align: center;
+}
+.achive{
+    width: 40%;
+    border-radius: 15px;
+    margin: 10px;
+}
+.achive img{
+    width: 85%;
+    padding: 7%;
+}
+
+footer{
+    background-color: black;
+}
+footer{
+    height: 150px;
+    width: 100%;
+    margin: 0;
+    background-color: black;
+}
+footer div{
+    padding-top: 10px;
+}
